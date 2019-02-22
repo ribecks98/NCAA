@@ -1,0 +1,353 @@
+WAGNER,wagner-seahawks,Wagner
+CLEM,clemson-tigers,Clemson
+WMICH,western-michigan-broncos,W. Michigan
+NILL,northern-illinois-huskies,N. Illinois
+MICHST,michigan-state-spartans,Michigan St.
+PITT,pittsburgh-panthers,Pittsburgh
+NEBOM,nebraska-omaha-mavericks,Neb.-Omaha
+MANH,manhattan-jaspers,Manhattan
+UAB,uab-blazers,UAB
+NCAT,north-carolina-at-aggies,NC A&amp;T
+MIZZOU,missouri-tigers,Missouri
+FIU,florida-international-golden-panthers,FIU
+BYU,brigham-young-cougars,BYU
+MRSHL,marshall-thundering-herd,Marshall
+EVAN,evansville-aces,Evansville
+WCAR,western-carolina-catamounts,W. Carolina
+WILL,western-illinois-leathernecks,W. Illinois
+RICH,richmond-spiders,Richmond
+TOLEDO,toledo-rockets,Toledo
+RICE,rice-owls,Rice
+UOP,pacific-tigers,Pacific
+UTVALL,utah-valley-wolverines,Utah Valley
+GTOWN,georgetown-hoyas,Georgetown
+UNC,north-carolina-tar-heels,North Carolina
+DENVER,denver-pioneers,Denver
+LSU,lsu-tigers,LSU
+UVM,vermont-catamounts,Vermont
+UVA,virginia-cavaliers,Virginia
+LALAF,louisiana-ragin-cajuns,Louisiana
+BGREEN,bowling-green-falcons,Bowling Green
+KSTATE,kansas-state-wildcats,Kansas St.
+FRESNO,fresno-state-bulldogs,Fresno St.
+KENSAW,kennesaw-state-owls,Kennesaw St.
+DTROIT,detroit-titans,Detroit
+DRAKE,drake-bulldogs,Drake
+UMKC,umkc-kangaroos,UMKC
+GATECH,georgia-tech-yellow-jackets,Georgia Tech
+MCNSE,mcneese-state-cowboys,McNeese St.
+MD,maryland-terrapins,Maryland
+TENN,tennessee-volunteers,Tennessee
+CMICH,central-michigan-chippewas,C. Michigan
+NDAK,north-dakota-fighting-hawks,North Dakota
+VANDY,vanderbilt-commodores,Vanderbilt
+UTAHST,utah-state-aggies,Utah St.
+LOYCHI,loyolachicago-ramblers,Loyola-Chi.
+IND,indiana-hoosiers,Indiana
+MARYCA,saint-marys-gaels,Saint Mary&#039;s
+SANFRAN,san-francisco-dons,San Fran.
+SMU,smu-mustangs,SMU
+UTAH,utah-utes,Utah
+NORFLK,norfolk-state-spartans,Norfolk St.
+EKY,eastern-kentucky-colonels,E. Kentucky
+LAMAR,lamar-cardinals,Lamar
+GWEBB,gardnerwebb-bulldogs,Gardner-Webb
+PURDUE,purdue-boilermakers,Purdue
+STETSON,stetson-hatters,Stetson
+OHIOST,ohio-state-buckeyes,Ohio St.
+MOUNT,mount-st-marys-mountaineers,Mt St Mary&#039;s
+DELST,delaware-state-hornets,Delaware St.
+PORTST,portland-state-vikings,Portland St.
+GWASH,george-washington-colonials,George Wash.
+LPSCMB,lipscomb-bisons,Lipscomb
+BELMONT,belmont-bruins,Belmont
+UCLA,ucla-bruins,UCLA
+MORGAN,morgan-state-bears,Morgan St.
+SC,south-carolina-gamecocks,South Carolina
+MAINE,maine-black-bears,Maine
+DUKE,duke-blue-devils,Duke
+IOWAST,iowa-state-cyclones,Iowa St.
+DAVID,davidson-wildcats,Davidson
+TXAMCC,texas-amcorpus-christi-islanders,Texas A&amp;M-CC
+CAN,canisius-golden-griffins,Canisius
+CAL,california-golden-bears,California
+WEBER,weber-state-wildcats,Weber St.
+SEMO,southeast-missouri-state-redhawks,SE Missouri St.
+WMMARY,william-mary-tribe,William &amp; Mary
+UMES,marylandeastern-shore-hawks,Md.-E. Shore
+NIAGARA,niagara-purple-eagles,Niagara
+WINTHR,winthrop-eagles,Winthrop
+FORD,fordham-rams,Fordham
+TNTECH,tennessee-tech-golden-eagles,Tenn. Tech
+NDAKST,north-dakota-state-bison,N. Dakota St.
+NWEST,northwestern-wildcats,Northwestern
+TULANE,tulane-green-wave,Tulane
+CHATT,chattanooga-mocs,Chattanooga
+BING,binghamton-bearcats,Binghamton
+BAYLOR,baylor-bears,Baylor
+GC,grand-canyon-antelopes,Grand Canyon
+TXTECH,texas-tech-red-raiders,Texas Tech
+HAMP,hampton-pirates,Hampton
+CSFULL,cal-state-fullerton-titans,CSFullerton
+AUBURN,auburn-tigers,Auburn
+LIU,liubrooklyn-blackbirds,LIU-Brooklyn
+MICH,michigan-wolverines,Michigan
+UTEP,texasel-paso-miners,UTEP
+KENTST,kent-state-golden-flashes,Kent St.
+STFRAN,st-francis-ny-terriers,St. Fran.-NY
+LNGBCH,long-beach-state-49ers,LBSU
+MARIST,marist-red-foxes,Marist
+OREG,oregon-ducks,Oregon
+RADFRD,radford-highlanders,Radford
+YALE,yale-bulldogs,Yale
+OKLAST,oklahoma-state-cowboys,Oklahoma St.
+RI,rhode-island-rams,Rhode Island
+FGC,florida-gulf-coast-eagles,FGCU
+PEPPER,pepperdine-waves,Pepperdine
+HOUBP,houston-bap-huskies,Houston Bap.
+LSALLE,la-salle-explorers,La Salle
+ALAM,alabama-am-bulldogs,Alabama A&amp;M
+MARQET,marquette-golden-eagles,Marquette
+USCUP,south-carolina-upstate-spartans,SC Upstate
+WASHST,washington-state-cougars,Washington St.
+PRINCE,princeton-tigers,Princeton
+ALCORN,alcorn-state-braves,Alcorn St.
+STJOES,saint-josephs-hawks,Saint Joseph&#039;s
+JMAD,james-madison-dukes,James Madison
+LAFAY,lafayette-leopards,Lafayette
+QUINN,quinnipiac-bobcats,Quinnipiac
+LONGWD,longwood-lancers,Longwood
+SAMHOU,sam-houston-state-bearkats,Sam Houston
+SFA,stephen-f-austin-lumberjacks,SF Austin
+SALAB,south-alabama-jaguars,South Alabama
+PEAY,austin-peay-governors,Austin Peay
+BAMA,alabama-crimson-tide,Alabama
+COLO,colorado-buffaloes,Colorado
+VALPO,valparaiso-crusaders,Valparaiso
+COLG,colgate-raiders,Colgate
+STLOU,saint-louis-billikens,Saint Louis
+GAST,georgia-state-panthers,Georgia St.
+BRYANT,bryant-university-bulldogs,Bryant
+UGA,georgia-bulldogs,Georgia
+NCASHV,uncasheville-bulldogs,UNC-Ash.
+NALAB,north-alabama-lions,N. Alabama
+TEMPLE,temple-owls,Temple
+CSN,northridge-matadors,CSNorthridge 
+SFTRPA,st-francis-pa-red-flash,St. Fran.-Pa.
+SUTAH,southern-utah-thunderbirds,So. Utah
+TNST,tennessee-state-tigers,Tennessee St.
+TOWSON,towson-tigers,Towson
+PROV,providence-friars,Providence
+UCSB,santa-barbara-gauchos,UCSB
+IOWA,iowa-hawkeyes,Iowa
+NJTECH,new-jersey-tech-highlanders,N.J. Tech
+DAYTON,dayton-flyers,Dayton
+KANSAS,kansas-jayhawks,Kansas
+SIUE,siuedwardsville-cougars,SIUE
+DREXEL,drexel-dragons,Drexel
+ELON,elon-phoenix,Elon
+IDAHO,idaho-vandals,Idaho
+BROWN,brown-bears,Brown
+APPST,app-state-mountaineers,App. St.
+SDAK,south-dakota-coyotes,South Dakota
+MNMTH,monmouth-hawks,Monmouth
+ECU,east-carolina-pirates,East Carolina
+TXARL,texasarlington-mavericks,UT-Arlington
+NCGRN,ncgreensboro-spartans,UNC-Green.
+SEATTLE,seattle-redhawks,Seattle
+ORAL,oral-roberts-golden-eagles,Oral Roberts
+ILLST,illinois-state-redbirds,Illinois St.
+CARK,cent-ark-bears,Cent. Arkansas
+IONA,iona-gaels,Iona
+UNF,north-florida-ospreys,North Florida
+XAVIER,xavier-musketeers,Xavier
+DUQ,duquesne-dukes,Duquesne
+PRESBY,presbyterian-blue-hose,Presbyterian
+VMI,vmi-keydets,VMI
+NOVA,villanova-wildcats,Villanova
+LVILLE,louisville-cardinals,Louisville
+OREGST,oregon-state-beavers,Oregon St.
+MVSU,mississippi-valley-state-delta-devils,Miss Valley St.
+DEPAUL,depaul-blue-demons,DePaul
+ABIL,abilene-christian-wildcats,Abil Christian
+SIENA,siena-saints,Siena
+CPOLY,cal-poly-mustangs,Cal Poly
+ARKST,arkansas-state-red-wolves,Arkansas St.
+CREIGH,creighton-bluejays,Creighton
+NIOWA,northern-iowa-panthers,Northern Iowa
+BOISE,boise-state-broncos,Boise St.
+UCF,ucf-knights,UCF
+NCCU,north-carolina-central-eagles,NC Central
+BUFF,buffalo-bulls,Buffalo
+MILW,wisconsinmilwaukee-panthers,Milwaukee
+HOLY,holy-cross-crusaders,Holy Cross
+MIAOH,miami-ohio-redhawks,Miami (Ohio)
+UMASS,massachusetts-minutemen,Massachusetts
+VCU,vcu-rams,VCU
+WISGB,green-bay-phoenix,Green Bay
+CSTCAR,coastal-carolina-chanticleers,Coastal Carolina
+SDAKST,s-dak-state-jackrabbits,S. Dak. St.
+WKY,western-kentucky-hilltoppers,W. Kentucky
+NMEXST,n-mex-st-aggies,N. Mex. St.
+AKRON,akron-zips,Akron
+NCOLO,northern-colorado-bears,N. Colorado
+IUPUI,iupui-jaguars,IUPUI
+CLMB,columbia-lions,Columbia
+NMEX,new-mexico-lobos,New Mexico
+SJST,san-jose-state-spartans,San Jose St.
+PVAM,prairie-view-am-panthers,Prairie View
+EILL,eastern-illinois-panthers,E. Illinois
+EWASH,eastern-washington-eagles,E. Washington
+TEXPA,utrgv-vaqueros,UT-Rio Grande Valley
+LIB,liberty-flames,Liberty
+GONZAG,gonzaga-bulldogs,Gonzaga
+ARIZ,arizona-wildcats,Arizona
+CHIST,chicago-state-cougars,Chicago St.
+STBON,st-bona-bonnies,St. Bona.
+VATECH,virginia-tech-hokies,Virginia Tech
+HOFSTRA,hofstra-pride,Hofstra
+GASOU,georgia-southern-eagles,Ga. Southern
+MERCER,mercer-bears,Mercer
+UCDAV,uc-davis-aggies,UC Davis
+STHRN,southern-jaguars,Southern U.
+INDST,indiana-state-sycamores,Indiana St.
+UMBC,marylandbaltimore-county-retrievers,UMBC
+NORL,new-orleans-privateers,New Orleans
+BALLST,ball-state-cardinals,Ball St.
+NCWILM,uncwilmington-seahawks,UNC-Wilm.
+HARTFD,hartford-hawks,Hartford
+FDU,fairleigh-dickinson-knights,F. Dickinson
+STJOHN,st-johns-red-storm,St. John&#039;s
+PORT,portland-pilots,Portland
+TULSA,tulsa-golden-hurricane,Tulsa
+TCU,tcu-horned-frogs,TCU
+UCONN,connecticut-huskies,Connecticut
+TXSA,texassan-antonio-roadrunners,UC Irvine
+NWST,nw-state-demons,Northwestern St.
+LEHIGH,lehigh-mountain-hawks,Lehigh
+CSBAK,cal-state-bakersfield-roadrunners,Cal-Baker.
+JACKST,jackson-state-tigers,Jackson St.
+IDST,idaho-state-bengals,Idaho St.
+PSU,penn-state-nittany-lions,Penn St.
+MISSST,mississippi-state-bulldogs,Miss. State
+SETON,seton-hall-pirates,Seton Hall
+ILL,illinois-fighting-illini,Illinois
+FURMAN,furman-paladins,Furman
+FSU,florida-state-seminoles,Florida St.
+HARV,harvard-crimson,Harvard
+UCRIV,california-riverside-highlanders,UC Riverside
+ARMY,army-west-point-black-knights,Army
+PENN,pennsylvania-quakers,Penn
+CHARSO,charleston-southern-buccaneers,Charleston So.
+FAIR,fairfield-stags,Fairfield
+BUCK,bucknell-bison,Bucknell
+LOYMRY,loyola-marymount-lions,LMU
+ILLCHI,illinoischicago-flames,Ill.-Chicago
+STNYBRK,stony-brook-seawolves,Stony Brook
+NEVADA,nevada-wolf-pack,Nevada
+ARKPB,arkansaspine-bluff-golden-lions,Ark.-Pine Bluff
+NEAST,northeastern-huskies,Northeastern
+MOREHD,morehead-state-eagles,Morehead St.
+SNCLRA,santa-clara-broncos,Santa Clara
+RUT,rutgers-scarlet-knights,Rutgers
+NICHST,nicholls-state-colonels,Nicholls St.
+WASH,washington-huskies,Washington
+AMER,american-eagles,American
+SAV,savannah-state-tigers,Savannah St.
+FAU,florida-atlantic-owls,FAU
+LAMON,louisianamonroe-warhawks,UL-Monroe
+BUTLER,butler-bulldogs,Butler
+GMASON,george-mason-patriots,George Mason
+JVILLE,jacksonville-dolphins,Jacksonville
+CUSE,syracuse-orange,Syracuse
+SFLA,south-florida-bulls,South Florida
+MASLOW,umass-lowell-river-hawks,UMass Lowell
+RIDER,rider-broncs,Rider
+SACST,sacramento-state-hornets,Sacramento St.
+WYO,wyoming-cowboys,Wyoming
+TNMART,ut-martin-skyhawks,UT Martin
+ARK,arkansas-razorbacks,Arkansas
+ALST,alabama-state-hornets,Alabama St.
+TEXAM,texas-am-aggies,Texas A&amp;M
+CAMP,campbell-fighting-camels,Campbell
+BC,boston-college-eagles,Boston College
+OAK,oakland-golden-grizzlies,Oakland
+DART,dartmouth-big-green,Dartmouth
+BU,boston-university-terriers,Boston U.
+MURYST,murray-state-racers,Murray St.
+NAU,northern-arizona-lumberjacks,N. Arizona
+TEXAS,texas-longhorns,Texas
+SAMFORD,samford-bulldogs,Samford
+UIW,incarnate-word-cardinals,Incarnate Word
+OKLA,oklahoma-sooners,Oklahoma
+JAXST,jacksonville-state-gamecocks,Jax. State
+FAMU,florida-am-rattlers,Florida A&amp;M
+LATECH,louisiana-tech-bulldogs,Louisiana Tech
+HIGHPT,high-point-panthers,High Point
+NAVY,navy-midshipmen,Navy
+NTEXAS,north-texas-mean-green,North Texas
+COPPST,coppin-state-eagles,Coppin St.
+MONST,montana-state-bobcats,Montana St.
+STNFRD,stanford-cardinal,Stanford
+LOYMD,loyolamaryland-greyhounds,Loyola-Md.
+DEL,delaware-fightin-blue-hens,Delaware
+BCU,bethunecookman-wildcats,Bethune-Cook.
+FLA,florida-gators,Florida
+CALBPTST,california-baptist-lancers,Cal Baptist
+IPFW,pfw-mastodons,PFW
+HAWAII,hawaii-warriors,Hawaii
+WVU,west-virginia-mountaineers,West Virginia
+STPETE,st-peters-peacocks,St. Peter&#039;s
+MTSU,middle-tenn-blue-raiders,Middle Tenn.
+WOFF,wofford-terriers,Wofford
+TEXST,texas-statesan-marcos-bobcats,Texas St.
+TEXSO,texas-so-tigers,Texas So.
+MISS,ole-miss-rebels,Ole Miss
+MOST,missouri-state-bears,Missouri St.
+SCST,south-carolina-state-bulldogs,SC State
+UK,kentucky-wildcats,Kentucky
+CHARLS,college-of-charleston-cougars,Charleston
+SACHRT,sacred-heart-pioneers,Sacred Heart
+NEB,nebraska-cornhuskers,Nebraska
+MNTNA,montana-grizzlies,Montana
+SDGST,san-diego-state-aztecs,San Diego St
+CHARLO,charlotte-49ers,Charlotte
+SILL,southern-illinois-salukis,S. Illinois
+NH,new-hamp-wildcats,New Hamp.
+ALBANY,albany-great-danes,Albany
+SELOU,southeastern-louisiana-lions,SE Louisiana
+CINCY,cincinnati-bearcats,Cincinnati
+ND,notre-dame-fighting-irish,Notre Dame
+ODU,old-dominion-monarchs,Old Dominion
+GRAM,grambling-tigers,Grambling
+ETNST,e-tennessee-state-buccaneers,ETSU
+WICHST,wichita-state-shockers,Wichita St.
+MINN,minnesota-golden-gophers,Minnesota
+MIAMI,miami-fla-hurricanes,Miami (Fla.)
+CORN,cornell-big-red,Cornell
+MEMP,memphis-tigers,Memphis
+COLOST,colorado-state-rams,Colorado St.
+ARIZST,arizona-state-sun-devils,Arizona St.
+USD,san-diego-toreros,San Diego
+USC,southern-california-trojans,USC
+USM,southern-miss-golden-eagles,So. Miss
+YOUNG,youngstown-state-penguins,Youngstown St.
+UNLV,unlv-rebels,UNLV
+CIT,the-citadel-bulldogs,The Citadel
+ROBERT,robert-morris-colonials,Robert Morris
+EMICH,eastern-michigan-eagles,E. Michigan
+WRIGHT,wright-state-raiders,Wright St.
+OHIO,ohio-bobcats,Ohio
+ARKLR,little-rock-trojans,Little Rock
+AF,air-force-falcons,Air Force
+WISC,wisconsin-badgers,Wisconsin
+HOW,howard-bison,Howard
+TROY,troy-trojans,Troy
+HOU,houston-cougars,Houston
+WAKE,wake-forest-demon-deacons,Wake Forest
+NCST,nc-state-wolfpack,NC State
+CLEVST,cleveland-state-vikings,Clev. St.
+CCTST,central-connecticut-state-blue-devils,CCSU
+BRAD,bradley-braves,Bradley
+NKY,northern-kentucky-norse,N. Kentucky
+UCIRV,uc-irvine-anteaters,UC Irvine
